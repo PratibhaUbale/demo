@@ -1,0 +1,16 @@
+  
+     SQL 
+. SQL is also pronounced as the Structured Query Language.
+. It is a fourth-generation programming language.
+. Its purpose is to manage data stored in relational 
+  database management systems.
+. It is mainly useful for handling structured data 
+  where relations exist between various data entities. 
+  
+  
+		MYSQL
+. MySQL is an open-source RDBMS developed by MySQL AB and
+  owned by Oracle Corporation.
+. It is a combination of two words – ‘My’ and ‘SQL’. 
+  ‘My’ is the name of one of the co-founders Michael Wideness’s 
+  daughter and ‘SQL’ stands for Structured Query Language
